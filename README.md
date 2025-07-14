@@ -31,3 +31,4 @@ pip install openai
 
 ---
 Creado por [nicohaddad]
+[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicohaddad/AgentCourt_ES/HEAD?filepath=AgentCourt_ES_simulador_WEB.ipynb)
